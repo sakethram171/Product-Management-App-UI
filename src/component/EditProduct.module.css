@@ -1,0 +1,24 @@
+input[type=text] {
+  width: 100%;
+  padding: 10px 10px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+div{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  background-color: rgb(212, 196, 196);
+  color: rgb(54, 131, 213);
+}
+
+h2 {
+
+  color: white;
+}
+
+h1{
+background-color:whitesmoke;
+}
